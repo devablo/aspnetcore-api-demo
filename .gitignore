@@ -27,6 +27,4 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
-src/Sca.ReferenceData/.vs/
-src/.vs/
-src/packages/
+*/.vs/
